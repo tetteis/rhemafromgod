@@ -2,7 +2,7 @@ const headerNavLinks = [
   { href: '/articles', title: 'Articles' },
   { href: '/tags', title: 'Tags' },
   { href: '/welcome', title: 'Welcome' },
-  { href: '/statement', title: 'Statement of Faith' },
+  { href: '/faith', title: 'Faith' },
   { href: '/salvation', title: 'Salvation' },
   { href: '/about', title: 'About' },
 ]

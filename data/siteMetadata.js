@@ -1,9 +1,9 @@
 const siteMetadata = {
   title: 'Rhema from God',
   author: 'Tettei Shahday-Annang',
-  headerTitle: 'RhemaFromGod',
+  headerTitle: '',
   description:
-    'Reaching out to the world with the Gospel of Jesus Christ, making desciples of all nations.',
+    'Reaching out to the world with the Gospel of Jesus Christ, making disciples of all nations.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://rhemafromgod.com',

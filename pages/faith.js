@@ -1,7 +1,7 @@
 import siteMetadata from '@/data/siteMetadata'
 import { PageSEO } from '@/components/SEO'
 
-export default function Statement() {
+export default function Faith() {
   return (
     <>
       <PageSEO
