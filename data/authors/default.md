@@ -10,7 +10,7 @@ facebook: https://facebook.com/rhemafromgod
 
 Hey there! 👋
 
-I'm Tettei Shahday-Annang. I'm a born again Christian and full of the Holy Ghost. I absolutely believe in God and His Son Jesus Christ. I was born to a Muslim dad and a Christian mom whom I cherish so much. I know it's surprising how a Muslim and a Christian came together, but that baffles me too. Well, although I have earthly parents, my Bible lets me know that my origin is in Christ and I come from Zion, the City of God. You can check out my [Statement of Faith](http://www.rhemafromgod.com/faith) to find out about my beliefs.
+I'm Tettei Shahday-Annang. I'm a born again Christian and full of the Holy Ghost. I absolutely believe in God and His Son Jesus Christ. I was born to a Muslim dad and a Christian mom whom I cherish so much. I know it's surprising how a Muslim and a Christian came together, but that baffles me too. Well, although I have earthly parents, my Bible lets me know that my origin is in Christ and I come from Zion, the City of God. You can check out my [Statement of Faith](https://www.rhemafromgod.com/faith) to find out about my beliefs.
 
 My life totally changed when I went to live with grandma in Winneba 😍. She was quite old, and had to go back to take care of her matrilineal home as the oldest in the family. Even though she's illiterate, she's just brilliant! She used to tell me more about God as well as the miracles the Lord wrought by her hands. She has such great faith, and I'm a living testimony of that. I had my primary education while living with her, after which I came back to mom in Tema to further my education. I got used to computers in Junior High School, which gave me access to order Christian materials online to study.
 
@@ -22,8 +22,7 @@ I want to encourage you today. Listen, it doesn’t matter where you find yourse
 
 Believe it, for the Word of God always WORKS!
 
-I Love You.
-
+I Love You.  
 ❤️❤️❤️
 
 God bless you!
