@@ -24,7 +24,7 @@ You can be brought back to God, and your relationship with Him can be restored b
 
 The Bible tells us, "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved" (Romans 10:9). Are you willing to let go of your burdens and sins?  Are you willing to turn away and repent of your sins?  Are you willing to receive Jesus Christ as your Lord and Saviour now? Remember you can never carry your sins and your burdens by yourself. That's why God the Father made the perfect atonement for our sins so that you carry your burden no more. Someday it might be too late!
 
-STEP #5: Pray to Receive Jesus Christ into your life.
+### STEP #5: Pray to Receive Jesus Christ into your life.
 
 At this moment you can pray the most important prayer of your life by simply saying:
 
