@@ -1,7 +1,7 @@
 ---
 name: Tettei Shahday-Annang
 avatar: /static/images/avatar.png
-occupation: JavaScript Developer
+occupation: Blockchain Developer
 company: tetteis.com
 email: info@rhemafromgod.com
 twitter: https://twitter.com/rhemafromgod
