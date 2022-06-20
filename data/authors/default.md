@@ -20,11 +20,11 @@ Don’t think you're wasting your money when asked to help sponsor the Gospel. I
 
 I want to encourage you today. Listen, it doesn’t matter where you find yourself today. God can turn things around for your good. You’re not a mistake! God has a plan and purpose for you and that is the very reason why you are alive today. Don't dwell on your feelings; don’t see yourself the way others see you. Get the true picture of yourself by studying the Bible - it's your mirror! (2 Corinthians 3:18). Consciously and continuously meditate on what God has said about you in His Word until it settles down in your spirit, and until your inner man becomes fully aware of who you are.
 
-I invite your to as your Lord and personal [accept Jesus Christ](https://www.rhemafromgod.com/salvation) Saviour if you have already not done so.
+I invite you to [accept Jesus Christ](https://www.rhemafromgod.com/salvation) as your Lord and personal Saviour if you have already not done so.
 
-If you just accepted the Jesus Christ as your Lord and personal Saviour, congratulations!!! You are now a child of God!
+If you just accepted the Jesus Christ as your Lord and personal Saviour, congratulations!!! You are now a child of God! Believe it, for the Word of God always WORKS!
 
-Believe it, for the Word of God always WORKS!
+Find a Holy Ghost filled Bible believing church around you and become a part today. You can write to us should you need any help.
 
 I Love You.  
 ❤️❤️❤️
