@@ -1,14 +1,14 @@
 ---
-title: 'Custodians of God's Mysteries - Part 2'
+title: "Custodians of God's Mysteries - Part 2"
 date: '2013-11-16'
 lastmod: '2013-11-20'
 tags: ['christian-living', 'mysteries']
 draft: false
-summary: 'The Amplified Bible says we have come to Zion, "And to the church (assembly) of the Firstborn who are registered \[as citizens\] in heaven..." (Hebrews 12:23).'
+summary: 'The Amplified Bible says we have come to Zion, "And to the church (assembly) of the Firstborn who are registered as citizens in heaven..." (Hebrews 12:23).'
 authors: ['default']
 ---
 
-The Amplified Bible says we have come to Zion, "And to the church (assembly) of the Firstborn who are registered \[as citizens\] in heaven..." (Hebrews 12:23). We're registered citizens of Heaven; do you get it? There are some Christians who are even not sure whether they are saved or not; they want to feel something in their bodies to believe this. Such people are of the senses. They are the people marching to Zion. God's Word says I am in Heaven now; my name is registered there. Do you get that?
+The Amplified Bible says we have come to Zion, "And to the church (assembly) of the Firstborn who are registered as citizens in heaven..." (Hebrews 12:23). We're registered citizens of Heaven; do you get it? There are some Christians who are even not sure whether they are saved or not; they want to feel something in their bodies to believe this. Such people are of the senses. They are the people marching to Zion. God's Word says I am in Heaven now; my name is registered there. Do you get that?
 
 Just like in school, when my name is mentioned I respond, "Yes Sir!" So you see how people sing without taking note of the words? To them, they think the lyrics are beautiful so they've got to sing along. No! That's not how God wants us; we have to make sure the lyrics match with God's Word before we sing along. I've noticed that it's easy to discern between law and spirit-inspired words when you're filled with the Spirit (Ephesians 5:18). The problem with a lot of Christians is that of carnality. When they read or listen to the Word of God, they would always try to figure out things with their minds. The reason a lot of people don't believe in our Gospel is because they're trying to get things with their intellect.
 
@@ -24,7 +24,7 @@ That verse has much to say and there're great mysteries in it but I want us to f
 
 He manifests Himself in us everywhere because we're in Him and He's in us (John 14:20). We're to make known these mysteries to the carnal ones because they cannot receive the thing of God: "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ" (2 Corinthians 4:6). Because we are joined to the Lord in one Spirit (1 Corinthians 6:17) and we have been made to drink from one Spirit (1 Corinthians 12:13), the Lord can share His vision with us. We are Christ's ambassadors (2 Corinthians 5:20), acting in His stead in the earth.
 
-We are hid in Christ: "For as many \[of you\] as were baptized into Christ \[into a spiritual union and communion with Christ, the Anointed One, the Messiah\] have put on (clothed yourselves with) Christ" (Galatians 3:27). Praise God! How powerful this verse is. I love the explanation of this verse by the President of Christ Embassy, Rev. Chris Oyakhilome: "To put on Christ isn't like a jacket; that doesn't provide adequate covering for all the parts of your body. In the Greek rendering, it actually connotes a sinking into a sack. Imagine yourself in a sack, large enough to accommodate you, until you can't be seen anymore. You've been completely submersed into the sack; with none of your body parts revealed.
+We are hid in Christ: "For as many of you as were baptized into Christ into a spiritual union and communion with Christ, the Anointed One, the Messiah have put on (clothed yourselves with) Christ" (Galatians 3:27). Praise God! How powerful this verse is. I love the explanation of this verse by the President of Christ Embassy, Rev. Chris Oyakhilome: "To put on Christ isn't like a jacket; that doesn't provide adequate covering for all the parts of your body. In the Greek rendering, it actually connotes a sinking into a sack. Imagine yourself in a sack, large enough to accommodate you, until you can't be seen anymore. You've been completely submersed into the sack; with none of your body parts revealed.
 
 That's the sense in which you've put on Christ. You've been completely immersed, baptized, and enwrapped into Christ, such that Christ is all that can be seen about you. This doesn't suggest something that'll happen with time, it's who you are now; you've put on Christ by virtue of the new birth; you've been baptized into Christ. Christ is all about you, all over you, and all around you. You're in Him! 1 John 4:13says, "...we dwell in him, and he in us..." Also Colossians 3:3-4 says your life is hid with Christ in God, and Christ has become your life; what a revelation! Make this your consciousness. You've been fully swaddled and encased in Christ.
 

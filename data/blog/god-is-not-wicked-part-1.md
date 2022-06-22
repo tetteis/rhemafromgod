@@ -4,7 +4,7 @@ date: '2013-02-09'
 lastmod: '2013-052-14'
 tags: ['Love']
 draft: false
-summary: 'There have been strange happenings in our world today that many have been left hopeless. Don't blame God! The devil will sometimes make you feel God has afflicted you and He's punishing you for doing something wrong.'
+summary: "There have been strange happenings in our world today that many have been left hopeless. Don't blame God! The devil will sometimes make you feel God has afflicted you and He's punishing you for doing something wrong."
 authors: ['default']
 ---
 

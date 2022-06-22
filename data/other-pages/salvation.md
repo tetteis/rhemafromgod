@@ -28,14 +28,7 @@ The Bible tells us, "That if thou shalt confess with thy mouth the Lord Jesus, a
 
 At this moment you can pray the most important prayer of your life by simply saying:
 
-> O Lord God, I believe in Jesus Christ, your Son who died for me and was raised from the dead for my justification. Your
-> Word says in Romans 10:9-10 "...that if thou shall confess with thy mouth the Lord Jesus, and shall believe in thine heart
-> that God hath raised him from the dead, thou shall be saved. For with the heart man believeth unto righteousness; and with
-> the mouth confession is made unto salvation. Therefore, I confess Jesus Christ as Lord of my life from this day forth. I
-> believe You are coming back again to earth. I am Yours forever, and I will serve You and follow You the rest of my days.
-> From this moment on, I belong to You only. I no longer belong to this world, or to the enemy of my soul. I belong to You. I
-> receive remission of sins for my soul and I receive eternal life into my spirit. I am saved! I am born again! Thank you for
-> making me your child.
+> O Lord God, I believe in Jesus Christ, your Son who died for me and was raised from the dead for my justification. Your Word says in Romans 10:9-10 "...that if thou shall confess with thy mouth the Lord Jesus, and shall believe in thine heart that God hath raised him from the dead, thou shall be saved. For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation. Therefore, I confess Jesus Christ as Lord of my life from this day forth. I believe You are coming back again to earth. I am Yours forever, and I will serve You and follow You the rest of my days. From this moment on, I belong to You only. I no longer belong to this world, or to the enemy of my soul. I belong to You. I receive remission of sins for my soul and I receive eternal life into my spirit. I am saved! I am born again! Thank you for making me your child.
 
 If you have just said this short prayer, congratulations!!! You are now a child of God. You can contact us for information to help you grow as a Christian. I would also recommend that you find a Holy Ghost-filled Bible believing church near you and become a part today!
 

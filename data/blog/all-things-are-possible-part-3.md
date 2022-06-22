@@ -2,7 +2,7 @@
 title: 'All Things Are Possible - Part 3'
 date: '2013-11-16'
 lastmod: '2022-01-15'
-tags: ['new-creation-realities', 'authority']
+tags: ['new-creation-realities', 'believers-authority']
 draft: false
 summary: 'One time, Jesus, being hungry, saw in the distance a fig tree covered with leaves, so He went to see if He could find any figs on it. But when He came to it, He found only leaves, because it was not the right time for figs.'
 authors: ['default']
@@ -28,7 +28,7 @@ There are those who talk about everything they see. This ought not to be so. Tha
 
 "All of us often make mistakes. But if a person never makes a mistake in what he says, he is perfect and is also able to control his whole being" (GNB); "For we all make many a slip. If anyone never slips in speech, he is a man of maturity; he can control his whole body too" (WMSNT). We put a bit into the mouth of a horse to make it obey us, and we are able to make it go where we want. Or think of a ship: big as it is and driven by such strong winds, it can be steered by a very small rudder, and it goes wherever the pilot wants it to go. So it is with the tongue: small as it is, it can boast about great things. Just think how large a forest can be set on fire by a tiny flame! (James 3:3-5).
 
-I love the Message Bible's translation of verse 5: "A word out of your mouth may seem of no account, but it can accomplish nearly anything – or destroy it! It only takes a spark, remember, to set off a forest fire." Oh, if only we would be careful about the words that proceed from our mouth. Those who keep complaining are going to always have their case worsened because they're talking wrong. 
+I love the Message Bible's translation of verse 5: "A word out of your mouth may seem of no account, but it can accomplish nearly anything – or destroy it! It only takes a spark, remember, to set off a forest fire." Oh, if only we would be careful about the words that proceed from our mouth. Those who keep complaining are going to always have their case worsened because they're talking wrong.
 
 Let's take a look at 1 Peter 3:10: "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:" This is what you're to do. Let me add this: Quit wanting to be somebody else. Have value for yourself. God doesn't want us to be the same because we cannot all be the same. If you don't value yourself, you cannot value others. You are unique as you are. When someone inspires you, it's okay to learn from him. Do not necessarily desire to be exactly like him. You could even be better than he is, but because you want to become like him, you limit yourself in many ways.
 

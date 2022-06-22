@@ -1,10 +1,10 @@
 ---
-title: 'The Believer's Authority - Part 2'
+title: "The Believer's Authority - Part 2"
 date: '2014-07-11'
 lastmod: '2014-07-13'
 tags: ['authority']
 draft: false
-summary: 'God created man to have and walk in authority, having dominion over all things He had created. Man has a desire in himself to be in charge and to be in authority. It's no surprise because it is a God given right but most at time we do not know how to use it, and therefore abuse it.'
+summary: "God created man to have and walk in authority, having dominion over all things He had created. Man has a desire in himself to be in charge and to be in authority. It's no surprise because it is a God given right but most at time we do not know how to use it, and therefore abuse it."
 authors: ['default']
 ---
 

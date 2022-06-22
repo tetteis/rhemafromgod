@@ -1,5 +1,5 @@
 const headerNavLinks = [
-  { href: '/articles', title: 'Articles' },
+  { href: '/blog', title: 'Articles' },
   { href: '/tags', title: 'Tags' },
   { href: '/welcome', title: 'Welcome' },
   { href: '/faith', title: 'Faith' },

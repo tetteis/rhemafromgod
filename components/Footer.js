@@ -11,7 +11,7 @@ export default function Footer() {
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
-          <div>{`© ${new Date().getFullYear()}`} Rhema from God</div>
+          <div>{`© ${new Date().getFullYear()}`} RhemaFromGod</div>
         </div>
       </div>
     </footer>

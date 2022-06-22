@@ -1,8 +1,8 @@
 ---
-title: 'Fear Not, For I Am With You - Part 1'
+title: 'Fear Not For I Am With You - Part 1'
 date: '2012-05-12'
 lastmod: '2012-05-13'
-tags: ['Fear']
+tags: ['fear']
 draft: false
 summary: 'The Lord says in Isaiah 41:10: "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."'
 authors: ['default']

@@ -1,7 +1,7 @@
 ---
 title: "Custodians of God's Mysteries - Part 3"
-date: '2013-11-22'
-lastmod: '2013-11-23'
+date: '2013-11-16'
+lastmod: '2013-11-22'
 tags: ['christian-living', 'mysteries']
 draft: false
 summary: "Jesus was teaching Nicodemus about being born again but he didn't get it. This Jewish teacher of the Bible knew the Old Testament thoroughly, but he didn't understand what it said about the Messiah."

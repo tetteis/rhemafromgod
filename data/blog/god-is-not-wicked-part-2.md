@@ -1,5 +1,5 @@
 ---
-title: 'God Is Not Wicked - Part 1'
+title: 'God Is Not Wicked - Part 2'
 date: '2013-02-09'
 lastmod: '2013-052-16'
 tags: ['Love']

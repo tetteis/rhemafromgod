@@ -1,5 +1,5 @@
 ---
-title: 'The Blessed Hope - The Coming of Jesus - Part 3'
+title: 'The Blessed Hope - The Coming of Jesus Part 3'
 date: '2013-06-21'
 lastmod: '2013-06-24'
 tags: ['hope', 'salvation']
