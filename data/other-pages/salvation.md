@@ -32,4 +32,6 @@ At this moment you can pray the most important prayer of your life by simply say
 
 If you have just said this short prayer, congratulations!!! You are now a child of God. You can contact us for information to help you grow as a Christian. I would also recommend that you find a Holy Ghost-filled Bible believing church near you and become a part today!
 
+Kindly [follow us on Twitter](https://twitter.com/rhemafromgod).
+
 God bless you!

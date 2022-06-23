@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 2'
 date: '2013-10-05'
 lastmod: '2013-10-8'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: "You've got to be careful whom you listen to. God has special interest in those that boast in Him. Did you ever hear about the Ark of the Covenant and the Tabernacle in the Old Testament?"
 authors: ['default']

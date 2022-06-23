@@ -4,7 +4,7 @@ avatar: /static/images/avatar.png
 occupation: Front-end Developer
 company: tetteis.com
 email: info@rhemafromgod.com
-twitter: https://twitter.com/rhemafromgod
+twitter: https://twitter.com/tetteis
 facebook: https://facebook.com/rhemafromgod
 ---
 
@@ -24,7 +24,7 @@ I invite you to [accept Jesus Christ](https://www.rhemafromgod.com/salvation) as
 
 If you just accepted the Jesus Christ as your Lord and personal Saviour, congratulations!!! You are now a child of God! Believe it, for the Word of God always WORKS!
 
-Find a Holy Ghost filled Bible believing church around you and become a part today. You can write to us should you need any help.
+Find a Holy Ghost filled Bible believing church around you and become a part today. You can write to us should you need any help. Kindly [follow us on Twitter](https://twitter.com/rhemafromgod).
 
 I Love You.  
 ❤️❤️❤️

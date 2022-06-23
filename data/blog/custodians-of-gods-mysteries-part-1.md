@@ -2,7 +2,7 @@
 title: "Custodians of God's Mysteries - Part 1"
 date: '2013-11-16'
 lastmod: '2013-11-18'
-tags: ['christian-living', 'mysteries']
+tags: ['christianity', 'mysteries']
 draft: false
 summary: 'Over the years, books, articles etc. have been published by a number of people with the aim of throwing light on the relationship that exists between God and man.'
 authors: ['default']

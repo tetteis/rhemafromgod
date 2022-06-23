@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 1'
 date: '2013-10-05'
 lastmod: '2013-10-6'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: "A lot of times people have asked, where does God live? God lives in us by His Spirit. You see, there's more to Christianity that I believe we take for granted. Whether you believe it or not God lives in you as His child."
 authors: ['default']

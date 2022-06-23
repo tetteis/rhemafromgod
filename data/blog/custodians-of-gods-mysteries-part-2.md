@@ -2,7 +2,7 @@
 title: "Custodians of God's Mysteries - Part 2"
 date: '2013-11-16'
 lastmod: '2013-11-20'
-tags: ['christian-living', 'mysteries']
+tags: ['christianity', 'mysteries']
 draft: false
 summary: 'The Amplified Bible says we have come to Zion, "And to the church (assembly) of the Firstborn who are registered as citizens in heaven..." (Hebrews 12:23).'
 authors: ['default']

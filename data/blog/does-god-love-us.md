@@ -2,7 +2,7 @@
 title: 'Does God Love Us?'
 date: '2011-09-06'
 lastmod: '2011-06-08'
-tags: ['love', 'new-creation-realities']
+tags: ['love', 'realities']
 draft: false
 summary: 'I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick" (Ezekiel 34:16).'
 authors: ['default']

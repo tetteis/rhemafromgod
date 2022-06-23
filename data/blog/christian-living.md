@@ -2,7 +2,7 @@
 title: 'Christian Living'
 date: '2013-11-16'
 lastmod: '2022-01-22'
-tags: ['christian-living']
+tags: ['christianity']
 draft: false
 summary: 'As children of God, we are to set good examples in society. We are to reflect the character of Christ. You may be somebody`s mentor without knowing it. "Do all that you can to live in peace with everyone" (Romans 12:18, NLT).'
 authors: ['default']

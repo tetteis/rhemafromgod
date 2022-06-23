@@ -2,7 +2,7 @@
 title: 'All Things Are Possible - Part 1'
 date: '2013-11-16'
 lastmod: '2022-01-13'
-tags: ['new-creation-realities', 'believers-authority']
+tags: ['realities', 'authority']
 draft: false
 summary: 'A lot is happening very fast; some awesome, others appalling. Crimes and suicides are on the rise. Covid has killed many and still kills innocent people. Despite this, our Lord tells us to cheer up, for He has overcome the world! (John 16:33).'
 authors: ['default']

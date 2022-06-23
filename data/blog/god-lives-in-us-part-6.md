@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 6'
 date: '2013-10-05'
 lastmod: '2013-10-16'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: "The Christian is perfectly saved in God's purpose; God has ordained him unto salvation, and that purpose is complete."
 authors: ['default']

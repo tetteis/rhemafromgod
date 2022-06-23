@@ -14,13 +14,10 @@ While here, I encourage you to make the best use of this site. Subscribe to the 
 
 Read the messages over and over until you're so filled with them. I love these words from the great man of faith, Smith Wigglesworth:
 
-> Fill your head and your heart with the Scriptures... As you do this, you are sewing seeds that the Spirit of God can
-> germinate... You must be so soaked with the Word of God, you must be so filled with it, that you yourself are a living
-> epistle, known and read of all men. Believers are strong only as the Word of God abides in them. The Word of God is Spirit
-> and life to those who receive it in simple faith... Know your Book, live it, believe it and obey it... If a thing is in the
-> Bible it is so; it is not even to be prayed about; it is to be received and acted upon. Inactivity of faith is a robber
-> which steals blessing.
+>Fill your head and your heart with the Scriptures... As you do this, you are sewing seeds that the Spirit of God can germinate... You must be so soaked with the Word of God, you must be so filled with it, that you yourself are a living epistle, known and read of all men. Believers are strong only as the Word of God abides in them. The Word of God is Spirit and life to those who receive it in simple faith... Know your Book, live it, believe it and obey it... If a thing is in the Bible it is so; it is not even to be prayed about; it is to be received and acted upon. Inactivity of faith is a robber which steals blessing.
 
 If you have a question, suggestion or prayer request, kindly [contact us](mailto:info@rhemafromgod.com) and we will get back to you!
+
+Kindly [follow us on Twitter](https://twitter.com/rhemafromgod).
 
 God Bless You!

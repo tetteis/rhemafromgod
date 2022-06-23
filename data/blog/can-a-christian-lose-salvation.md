@@ -2,7 +2,7 @@
 title: 'Can A Christian Lose Salvation?'
 date: '2016-04-21'
 lastmod: '2022-01-20'
-tags: ['new-creation-realities', 'salvation', 'sin']
+tags: ['realities', 'salvation', 'sin']
 draft: false
 summary: 'Can a Christian lose his salvation? Once saved, always saved? Is eternal security biblical? These are some questions people and often new converts, ask.'
 authors: ['default']

@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 3'
 date: '2013-10-05'
 lastmod: '2013-10-10'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: 'The Lord said to Solomon, "If you obey all my laws and commands, I will do for you what I promised your father David. I will live among my people Israel in this Temple that you are building, and I will never abandon them."'
 authors: ['default']

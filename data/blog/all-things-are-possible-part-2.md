@@ -2,7 +2,7 @@
 title: 'All Things Are Possible - Part 2'
 date: '2013-11-16'
 lastmod: '2022-01-14'
-tags: ['new-creation-realities', 'believers-authority']
+tags: ['realities', 'authority']
 draft: false
 summary: "There are times when we question why God has been silent on us? Sometimes it is His will; other times it's our faith that couldn't carry us. The Word of God is truth (John 17:17) and reliable (1 Kings 8:56; Joshua 21:45), so put it to work."
 authors: ['default']

@@ -2,7 +2,7 @@
 title: 'All Things Are Possible - Part 3'
 date: '2013-11-16'
 lastmod: '2022-01-15'
-tags: ['new-creation-realities', 'believers-authority']
+tags: ['realities', 'authority']
 draft: false
 summary: 'One time, Jesus, being hungry, saw in the distance a fig tree covered with leaves, so He went to see if He could find any figs on it. But when He came to it, He found only leaves, because it was not the right time for figs.'
 authors: ['default']

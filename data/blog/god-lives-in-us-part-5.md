@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 5'
 date: '2013-10-05'
 lastmod: '2013-10-14'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: 'You have no right to heaven in yourself: your right lies in Christ. If you are pardoned, it is through His blood; if you are justified, it is through His righteousness; if you are sanctified, it is because He is made of God unto you sanctification...'
 authors: ['default']

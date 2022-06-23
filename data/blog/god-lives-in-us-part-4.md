@@ -2,7 +2,7 @@
 title: 'God Lives In Us - Part 4'
 date: '2013-10-05'
 lastmod: '2013-10-12'
-tags: ['new-creation-realities']
+tags: ['realities']
 draft: false
 summary: 'As we day by day receive grace from Jesus, and more constantly recognize it as coming from Him, we shall behold Him in communion with us, and enjoy the felicity of communion with Him.'
 authors: ['default']
