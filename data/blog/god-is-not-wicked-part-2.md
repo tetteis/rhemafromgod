@@ -1,7 +1,7 @@
 ---
 title: 'God Is Not Wicked - Part 2'
 date: '2013-02-09'
-lastmod: '2013-052-16'
+lastmod: '2013-05-16'
 tags: ['Love']
 draft: false
 summary: 'A man is still a sinner without accepting Jesus Christ as His Lord and personal Saviour. The law is there to make us realize we are sinners and there is nothing we can do to become right with God.'
@@ -44,4 +44,4 @@ As she did, confidence and boldness arose. She began to make declarations that s
 
 He makes you a champion in life. The divine life is given to every Christian to live. That's why you've got to be born again by [confessing Christ as your Lord and Saviour](https://www.rhemafromgod.com/salvation) before you can be a partaker of this divine life. Oh, nothing can separate us from God's love even if we're high above the sky. Is what you're going through like a mountain to you, speak to it. Jesus said "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith" (Mark 11:23). There's nothing too big for you that you cannot overcome with your faith. The bigger the problem, the greater will be the fall of it.
 
-Stir up your faith by studying the Word of God and speak to that mountain before you; command it out of your way! Oops, the [last part](https://www.rhemafromgod.com/god-is-not-wicked-part-3 "God is not Wicked part 3") is awaiting; Let's keep studying!
+Stir up your faith by studying the Word of God and speak to that mountain before you; command it out of your way! Oops, the [last part](https://www.rhemafromgod.com/god-is-not-wicked-part-3 'God is not Wicked part 3') is awaiting; Let's keep studying!
