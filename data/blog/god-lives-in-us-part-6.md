@@ -38,6 +38,6 @@ What do you want in life? Jesus has everything you'd ever need! He laid aside Hi
 
 Behold, this river of God is full for your supply; what can you desire beside? The Eternal God is your helper! We have learnt a lot about the names of God today, but do you know what the most important name to God is? It's your name. The only name God really cares about is YOUR Name, and He wants you saved. The Bible says that He knew you before you were formed in your mother's womb (Jeremiah 1:5), so he knows your name, and he wants it to remain permanently in the book of life; but the only way he will do that is if you give him permission. And the only way to give him that permission is to accept His Son.
 
-[Accept Jesus today](https://rhemafromgod.com/salvation) as your Lord and personal Saviour. Only then will the Father, the Son and the Holy Spirit come to dwell in you. You cannot benefit from what I've shared with you until you're born again. Your life will never be the same after making this most important decision in your life.
+[Accept Jesus today](/salvation) as your Lord and personal Saviour. Only then will the Father, the Son and the Holy Spirit come to dwell in you. You cannot benefit from what I've shared with you until you're born again. Your life will never be the same after making this most important decision in your life.
 
 God bless you!

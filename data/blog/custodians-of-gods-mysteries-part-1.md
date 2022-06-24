@@ -55,5 +55,3 @@ All Mt. Sinai was covered with smoke because Jehovah descended upon it in the fo
 Moses himself was aghast and trembling with fear as to what was going on (Exodus 19:12-22; 20:18-21; Deuteronomy 4:11, 12; 5:22-27; Deuteronomy 9:19). I had to go through this story with you for a reason. The book of Hebrews says we (New Testament believers) have not come to a mountain that can be touched, a mountain that is ablaze with fire, and to gloom and darkness and a raging storm. NO! They could not bear the commandments that were given to them; they were afraid to even move about. That moment was so awful and terrifying. But we have come to Mount Zion, the city where God Himself dwells!
 
 We were not like the Israelites He visited; He took us home! That's God's city, the Heavenly Jerusalem, and to countless multitudes of angels in festal gathering. Hallelujah!
-
-There's even more to study; let's get to the [second part](https://www.rhemafromgod.com/custodians-of-gods-mysteries-part-2) as we dive deep into this topic. You will be blessed!

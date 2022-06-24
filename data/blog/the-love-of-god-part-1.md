@@ -48,4 +48,4 @@ This is a powerful revelation from God. Here, the Spirit of God gives us somethi
 
 I can't take off my chest and hope to live, no matter how much I don't like it. It should be the same with our fellow men. You see, in the body of Christ, we work in unity. Even though we might see some parts of our body to be more important than others, they all work in harmony to achieve a common goal. If any of our body part is faulty, we get time to treat it and make sure it's fit. It's same we've got to do for one another. The latter part tells us that all the body parts suffer when one part suffers; all parts are honoured when one is honoured.
 
-That's why we're admonished to rejoice with them that rejoice and weep with them that weep (Romans 12:15). There's more to learn; let's get to the [second part](https://www.rhemafromgod.com/the-love-of-god-part-2 "The Love of God part 2").
+That's why we're admonished to rejoice with them that rejoice and weep with them that weep (Romans 12:15).

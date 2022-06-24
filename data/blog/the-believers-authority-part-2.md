@@ -45,5 +45,3 @@ As in Adam, every heir of flesh and blood has a personal interest, because he is
 If Jesus is seated at the right hand of God (Ephesians 1:20), we are there with Him now. And you know what: the right hand of God is glorious in power and smashes the enemy. At the same right hand there are pleasures forevermore (Exodus 15:6; Psalm 16:11). In other words we take both authority and pleasure at the right hand of God. Hallelujah! Stop looking down on yourself. What they say about you is not necessarily God's thoughts about you. God regards us with complacency, for He views us in Jesus, and does not look upon us as separate from our covenant head.
 
 Christ is the head and we are the body (Colossians 1:18; 1 Corinthians 12:27; Ephesians 4:25). Now, how do you separate the head from the body? It's impossible! You call them one. Oh, no wonder the Word declares: "...he that is joined unto the Lord is one spirit" (1 Corinthians 6:17). Did you get that; we are one with God? That's mind-blowing!
-
-We're not done yet; there's more! [Let's keep studying](https://rhemafromgod.com/the-believers-authority-part-3 "The Believer's Authority part 3").

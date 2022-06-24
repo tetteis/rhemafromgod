@@ -48,4 +48,4 @@ The name M'Kaddesh was used to refer to the various parts of the temple which we
 
 Believers in Christ Jesus are saved. They are not looked upon as persons who are in a hopeful state, and may ultimately be saved, but they are already saved. Salvation is not a blessing to be enjoyed upon the dying bed, and to be sung of in a future state above, but a matter to be obtained, received, and enjoyed now.
 
-Glory to God! Let's get to the [final part](http://rhemafromgod.com/god-lives-in-us-part-6 "God Lives in Us part 6") as we wrap up.
+Glory to God!

@@ -48,4 +48,4 @@ It is used of the governor of a province; it is used of the rule of the Messiah.
 
 Others teach that we'll reign in Heaven, or the Sweet By-and-By. This is also true, but it's still not the whole truth. In both cases, either because of wrong teaching or the lack of right teaching, the impression is that we can't expect much in this life. Some people even preach that having more material blessing in life is going to earn you a lower position in heaven. We're to help others with our material blessing (Psalm 112:9), and He that gives to the poor lends to the Lord (Proverbs 19:17).
 
-So is it the will of God for us to be poor? Absolutely not! Congratulations for coming this far, I know you've learnt a lot. However let's finish the [last part](https://rhemafromgod.com/the-believers-authority-part-5 "The Believer's Authority part 5") as we wrap up. You will surely be blessed!
+So is it the will of God for us to be poor? Absolutely not!

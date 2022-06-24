@@ -50,4 +50,4 @@ No matter what you're experiencing today, you can speak out your desire and watc
 
 Previously, Job had been surrounded by a "hedge" of God's protection (Job 1:10). Could the fact that Job gave fear such a place in his life have caused a breach in the hedge? While it is overly simplistic to say that Job's suffering was exclusively caused by his choice of words, we must remember the warnings of Ecclesiastes 10:8: "...whoso breaketh an hedge, a serpent shall bite him." So we see clearly that Job went through those sufferings due to the hedge he broke by speaking contrary to the Word of God. Period!
 
-Oh, there's so much power in our words; only if we learn to use it properly - we'll be reigning in life, living the upward and forward only life! Yes it's possible! The final part has even more; [let's keep studying](http://www.rhemafromgod.com/the-power-of-words-part-2 "the power of words part 2").
+Oh, there's so much power in our words; only if we learn to use it properly - we'll be reigning in life, living the upward and forward only life! Yes it's possible!

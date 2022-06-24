@@ -4,14 +4,22 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
+  default-src https://disqus.com https://c.disquscdn.com;
+  connect-src https://links.services.disqus.com;
+  img-src https://referrer.disqus.com https://c.disquscdn.com;
+  object-src 'none';
+  script-src 'unsafe-eval' 'unsafe-inline' https://csplite-com.disqus.com https://c.disquscdn.com;
+  style-src https://c.disquscdn.com;
+  worker-src 'none';
+  report-uri /tst/csp.php?hash=806e48be47fe7e8d44f81fb649ee7b04
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' disqus.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' https://tagmanager.google.com https://analytics.google.com/;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src disqus.com
+  frame-src https://disqus.com;
 `
 
 const securityHeaders = [

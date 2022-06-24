@@ -42,7 +42,7 @@ The Apostle Paul said, "For though I be free from all men, yet have I made mysel
 
 Refuse to have the "holier than thou attitude" when you want to win people to Christ. This will put them off. Understand their situation and know how to talk to them. We should look at people through the lenses of the finished work of Christ. Love them the way they are. Trying to change other people is never going to work. God's expression of Jesus is a spiritual mirror. As we look at Him, the more we become like Him (2 Corinthians 3:18).
 
-Those that you know will eventually improve to be who God wants them to be and not what you want them to be. Quit judging people. Just see the best part of them and forget their bad side. This will make you love them; the more you look at their bad side, the more you're going to hate them.  God looks at the best side of us. We've put on Christ (Galatians 3:27). When God looks at us, He sees nothing than Jesus. He sees us as righteous as He is. That's why we're bold in His presence (Hebrews 4:16).
+Those that you know will eventually improve to be who God wants them to be and not what you want them to be. Quit judging people. Just see the best part of them and forget their bad side. This will make you love them; the more you look at their bad side, the more you're going to hate them. God looks at the best side of us. We've put on Christ (Galatians 3:27). When God looks at us, He sees nothing than Jesus. He sees us as righteous as He is. That's why we're bold in His presence (Hebrews 4:16).
 
 Mind your own business (1 Thessalonians 4:11). Never compare yourself to someone. If not, you are going to concentrate on them even when things are going wrong on your side. Seek the wellbeing of others in the same way you want to do well. We sometimes say, "My friend's family is not like this or that. Why can't you be like him or her? Her husband bought this and that for her so get the same thing for me?" You see, that's wrong!
 
@@ -66,7 +66,7 @@ Appreciate God for where you are now. That you can even hear and understand His 
 
 You are free to take out prints and share with family and friends. I've received mails from people about how blessed they are in using them in their study groups. I know, I know, and I know that your life will never be the same! Study them over and over, until you're so certain and sure about what God says about you! And it's my prayer that you'll get to know the Lord more and more, that when men see you, they'll know that you've been with the Lord.
 
-The articles on this site won't be of benefit to you when you're not born again. [Accept Jesus today](https://rhemafromgod.com/salvation) and your life will never be the same.
+The articles on this site won't be of benefit to you when you're not born again. [Accept Jesus today](/salvation) and your life will never be the same.
 
 I love you,
 God bless you!

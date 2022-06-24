@@ -52,4 +52,4 @@ The Spirit does not dwell in everybody but believers (Acts 2:38; 1 Corinthians 3
 
 Every born again Christian has the Holy Spirit in him, even though he might not have received the Holy Ghost baptism. Some people think they have to see or feel the Holy Spirit with them before they believe they've received Him. It's not so! The safe way to receive the Holy Spirit is to believe that He lives in you and seek to spend time with Him. Ask for His guidance as you study the Word of God. Have fellowship with Him in prayer so as to develop an intimate relationship with Him. As you do, He'll begin to reveal more of Himself to you and lead you in life, "For as many as are led by the Spirit of God, they are the sons of God" (Romans 8:14).
 
-It's very important to recognize His presence because the Holy Spirit living in you is God living in you. The [second part](https://www.rhemafromgod.com/ye-are-the-light-of-the-world-part-2) even has more for our studies - let's get there.
+It's very important to recognize His presence because the Holy Spirit living in you is God living in you.

@@ -50,4 +50,4 @@ Jesus is God! (See also John 10:30; John 14:9). He was the One with Shadrach, Me
 
 No wonder the Word declares: "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches: But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD" (Jeremiah 9:23-24).
 
-Oh, this is God's topmost dream for me - that I get connected with Him with real situations rather than with ideas or theories. The [next part](https://rhemafromgod.com/god-lives-in-us-part-2 "God Lives in Us - part 2") even presents us with deep revelations. Let's keep studying.
+Oh, this is God's topmost dream for me - that I get connected with Him with real situations rather than with ideas or theories.
