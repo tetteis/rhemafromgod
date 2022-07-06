@@ -7,7 +7,7 @@ const ContentSecurityPolicy = `
   default-src 'self' https://disqus.com;
   script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com https://www.googletagmanager.com https://api.reftagger.com https://reftagger.bibliacdn.com;
   style-src 'self' 'unsafe-inline'
-  img-src * blob: data: https://referrer.disqus.com https://c.disquscdn.com;
+  img-src * blob: data:
   media-src 'none';
   connect-src *;
   font-src 'self';

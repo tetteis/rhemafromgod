@@ -5,7 +5,7 @@ occupation: Accountant
 company: Joab Writes
 email: joabwritesgh@gmailcom
 twitter: https://twitter.com/rhemafromgod
-facebook: https://web.facebook.com/JoabInspires
+facebook: https://web.facebook.com/joabmccarthy
 ---
 
 Mr Joab Aboagye McCarthy is married to Jennifer and a father to Kharis. He is a servant of our Lord and Saviour Jesus Christ, and a young, passionate and gifted writer, public speaker and teacher of God's Word. He is an accountant by profession. He has authored other books such as;
