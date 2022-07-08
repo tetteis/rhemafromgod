@@ -4,7 +4,7 @@ avatar: /static/images/joab.png
 occupation: Accountant
 company: Joab Writes
 email: joabwritesgh@gmailcom
-twitter: https://twitter.com/rhemafromgod
+twitter: https://twitter.com/joabmccarthy
 facebook: https://web.facebook.com/joabmccarthy
 ---
 
