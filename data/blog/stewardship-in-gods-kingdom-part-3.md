@@ -4,7 +4,7 @@ date: '2015-07-02'
 lastmod: '2023-04-02'
 tags: ['prosperity', 'stewardship']
 draft: false
-summary: 'Money is a delicate subject that requires our utmost care. Our actions depict what we truly believe, and if we're not careful, we might end up replacing God with money.'
+summary: "Money is a delicate subject that requires our utmost care. Our actions depict what we truly believe, and if we're not careful, we might end up replacing God with money."
 authors: ['default']
 ---
 
