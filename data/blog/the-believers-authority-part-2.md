@@ -4,7 +4,7 @@ date: '2014-07-11'
 lastmod: '2023-04-02'
 tags: ['authority', 'realities', 'mysteries']
 draft: false
-summary: 'The Apostle urges the saints to experience the love of Christ, be filled with God's presence and become fully immersed in Him (Ephesians 3:19).'
+summary: "The Apostle urges the saints to experience the love of Christ, be filled with God's presence and become fully immersed in Him (Ephesians 3:19)."
 authors: ['default']
 ---
 
