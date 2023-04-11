@@ -4,11 +4,9 @@ date: '2013-06-21'
 lastmod: '2023-04-11'
 tags: ['hope', 'salvation']
 draft: false
-summary: "Praise God! Though the saved Spirit battles worldly lusts in the body, Jesus' return will raise us incorruptible. In truth, we never die because we were raised with Christ and are united with Him (Ephesians 2:6; Colossians 2:12-14)."
+summary: 'I love what Spurgeon says concerning this subject: Let us not imagine that the spirit sleeps in insensibility. "Today shalt thou be with me in paradise," is the whisper of Christ to every dying saint.'
 authors: ['default']
 ---
-
-Praise God! Though the saved Spirit battles worldly lusts in the body, Jesus' return will raise us incorruptible. In truth, we never die because we were raised with Christ and are united with Him (Ephesians 2:6; Colossians 2:12-14). As branches of the vine, we bear fruit with the same life flowing through us, making us conquerors (John 15:5; Romans 8:37; 1 John 4:4). Paul refers to the body sleeping, not the spirit (1 Corinthians 15:51).
 
 I love what Spurgeon says concerning this subject:
 
