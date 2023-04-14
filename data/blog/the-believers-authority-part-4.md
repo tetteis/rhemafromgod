@@ -1,7 +1,7 @@
 ---
 title: "The Believer's Authority - Part 4"
 date: '2014-07-11'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['authority', 'realities', 'mysteries']
 draft: false
 summary: 'Some think salvation means continuing to be ruled by sin, sickness, poverty, fear, and bondage until barely making it to Heaven. But we can reign in life by Christ Jesus, receiving abundance of grace and the gift of righteousness.'

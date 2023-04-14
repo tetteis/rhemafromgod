@@ -1,7 +1,7 @@
 ---
 title: "Stewardship In God's Kingdom - Part 2"
 date: '2015-07-02'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['prosperity', 'stewardship']
 draft: false
 summary: 'Giving to God is not just an obligation, it is a privilege and an honor. Although tithing is not explicitly mentioned in the New Testament, it is still an act of worship and obedience to God.'

@@ -1,7 +1,7 @@
 ---
 title: 'Fear Not For I Am With You - Part 2'
 date: '2012-05-12'
-lastmod: '2012-05-13'
+updated: '2012-05-13'
 tags: ['fear']
 draft: false
 summary: 'One late night, the disciples were in their boat in the middle of the sea, and Jesus was alone on the land. He saw that they were in serious trouble, rowing hard and struggling against the wind and waves.'

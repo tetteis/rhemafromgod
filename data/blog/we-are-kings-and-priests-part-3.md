@@ -1,7 +1,7 @@
 ---
 title: 'We Are Kings and Priests - Part 3'
 date: '2012-04-02'
-lastmod: '2012-04-010'
+updated: '2012-04-010'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: 'There was also another instance where a leper asked Jesus to heal him if it was His will: "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean. And Jesus put forth his hand, and touched him, saying, I will; be thou clean.'

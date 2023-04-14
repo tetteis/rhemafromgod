@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Praises and Worship'
 date: '2012-01-23'
-lastmod: '2012-01-28'
+updated: '2012-01-28'
 tags: ['power', 'praise', 'worship']
 draft: false
 summary: "'Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name' (Psalm 100:4). We're to always go to God with thanksgiving and a joyful heart."

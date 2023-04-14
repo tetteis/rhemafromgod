@@ -1,7 +1,7 @@
 ---
 title: 'Speaking in Tongues - Part 2'
 date: '2011-08-09'
-lastmod: '2011-08-12'
+updated: '2011-08-12'
 tags: ['power']
 draft: false
 summary: 'So how does speaking in tongues operate? In order to answer this question properly, we must look at the fact that the Bible describes three different manifestations of speaking in tongues...'

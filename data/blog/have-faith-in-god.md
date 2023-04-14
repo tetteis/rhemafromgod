@@ -1,7 +1,7 @@
 ---
 title: 'Have Faith In God'
 date: '2011-08-29'
-lastmod: '2011-08-31'
+updated: '2011-08-31'
 tags: ['faith']
 draft: false
 summary: "'And Jesus, replying, said to them, Have faith in God constantly' (Mark 11:22, AMP). Have you asked why I spend time posting messages to this blog? Well, as far as I'm concerned, I love to see every fiber of your being progress."

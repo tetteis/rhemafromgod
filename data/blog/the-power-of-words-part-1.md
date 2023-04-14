@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Words - Part 1'
 date: '2011-11-26'
-lastmod: '2011-11-28'
+updated: '2011-11-28'
 tags: ['power', 'realities', 'authority']
 draft: false
 summary: '"A man shall be satisfied with good by the fruit of his mouth..." (Proverbs 12:14). The Bible draws an undeniable connection between our faith and the words we speak.'

@@ -1,7 +1,7 @@
 ---
 title: "Stewardship In God's Kingdom - Part 1"
 date: '2015-07-02'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['prosperity', 'stewardship']
 draft: false
 summary: 'In this article, we will discuss the concept of giving in Christianity, including tithes, seed offering, freewill offering, and first fruits.'

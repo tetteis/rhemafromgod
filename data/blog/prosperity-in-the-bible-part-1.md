@@ -1,7 +1,7 @@
 ---
 title: 'Prosperity In The Bible - Part 1'
 date: '2011-09-21'
-lastmod: '2011-09-22'
+updated: '2011-09-22'
 tags: ['prosperity']
 draft: false
 summary: 'From Genesis 1:28, God creates man, His highest creation, and tells him to take rule over the earth. For a home, God gives man an idyllic garden called Eden (Genesis 2:10). The name "Eden" means "delight, pleasure, a place where all five senses are satisfied."'

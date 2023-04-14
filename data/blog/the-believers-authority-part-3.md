@@ -1,7 +1,7 @@
 ---
 title: "The Believer's Authority - Part 3"
 date: '2014-07-11'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['authority', 'realities', 'mysteries']
 draft: false
 summary: 'Romans 10:9-10 states that if you confess Jesus as Lord and believe that God raised him from the dead, you will be saved. When you receive Jesus as your Lord and Savior, you become a child of God.'

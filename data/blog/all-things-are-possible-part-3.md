@@ -1,7 +1,7 @@
 ---
 title: 'All Things Are Possible - Part 3'
 date: '2013-11-16'
-lastmod: '2023-04-04'
+updated: '2023-04-04'
 tags: ['realities', 'authority']
 draft: false
 summary: "Once, Jesus saw a fig tree with leaves from a distance while He was hungry. He went to it, hoping to find figs, but found only leaves as it wasn't the season for figs. Jesus cursed the tree, and the next day it was found withered."

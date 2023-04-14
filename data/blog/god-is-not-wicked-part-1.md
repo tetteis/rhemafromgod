@@ -1,7 +1,7 @@
 ---
 title: 'God Is Not Wicked - Part 1'
 date: '2013-02-09'
-lastmod: '2023-04-14'
+updated: '2023-04-14'
 tags: ['Love']
 draft: false
 summary: 'God is not responsible for the sufferings in the world (Psalm 145:9); Satan is the oppressor and Jesus is the Saviour (Acts 10:38). The natural laws were set aside by Jesus to bless humanity, and God is not the author of such problems (1 Chronicles 16:34; Psalm 25:8; 100:5).'

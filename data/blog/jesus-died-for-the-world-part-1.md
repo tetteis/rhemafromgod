@@ -1,7 +1,7 @@
 ---
 title: 'Jesus Died For The World - Part 1'
 date: '2011-08-08'
-lastmod: '2011-08-13'
+updated: '2011-08-13'
 tags: ['righteousness']
 draft: false
 summary: '"When Jesus therefore had received the vinegar, He said, "It is finished": and He bowed His head and gave up the ghost" (John 19:30).'

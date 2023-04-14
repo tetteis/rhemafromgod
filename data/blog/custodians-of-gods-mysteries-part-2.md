@@ -1,7 +1,7 @@
 ---
 title: "Custodians of God's Mysteries - Part 2"
 date: '2013-11-16'
-lastmod: '2023-04-08'
+updated: '2023-04-08'
 tags: ['christianity', 'mysteries']
 draft: false
 summary: "According to Hebrews 12:23 in the Amplified Bible, we are registered citizens of Heaven and belong to the assembly of the Firstborn. As Christians, we must ensure that the lyrics we sing align with God's Word."

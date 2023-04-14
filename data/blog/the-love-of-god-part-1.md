@@ -1,7 +1,7 @@
 ---
 title: 'The Love Of God - Part 1'
 date: '2012-09-18'
-lastmod: '2012-09-19'
+updated: '2012-09-19'
 tags: ['love']
 draft: false
 summary: "The Bible is full of great verses and passages about love and we're going to explore more on its application to our lives. God's love for us is a perfect example and a starting place we can learn something truly great."

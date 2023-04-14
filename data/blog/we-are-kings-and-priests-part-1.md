@@ -1,7 +1,7 @@
 ---
 title: 'We Are Kings and Priests - Part 1'
 date: '2012-04-02'
-lastmod: '2012-04-05'
+updated: '2012-04-05'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: "We've been made kings and priests! We already know about our [priestly ministry](https://www.rhemafromgod.com/the-intercessory-prayer). So in this very message, we're going to have a look at our rights as kings."

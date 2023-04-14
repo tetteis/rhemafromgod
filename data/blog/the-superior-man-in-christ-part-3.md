@@ -1,7 +1,7 @@
 ---
 title: 'The Superior Man in Christ - Part 3'
 date: '2011-09-11'
-lastmod: '2011-09-15'
+updated: '2011-09-15'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: 'Beloved, learn to rest assured in the promises of God for "without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him" (Hebrews 11:6).'

@@ -1,7 +1,7 @@
 ---
 title: 'We Are The Righteousness Of God - Part 4'
 date: '2011-10-04'
-lastmod: '2011-10-12'
+updated: '2011-10-12'
 tags: ['righteousness', 'power', 'realities']
 draft: false
 summary: 'When Jacob asked his mother what would happen if he got cursed, the mother said, "I will receive the curse instead of you." Bible says, "Christ redeemed us from the curse of the law by becoming a curse for us, for it is written: "Cursed is everyone who is hung on a tree"" (Galatians 3:13).'

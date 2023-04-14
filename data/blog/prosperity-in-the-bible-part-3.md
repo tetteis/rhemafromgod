@@ -1,7 +1,7 @@
 ---
 title: 'Prosperity In The Bible - Part 3'
 date: '2011-09-21'
-lastmod: '2011-09-25'
+updated: '2011-09-25'
 tags: ['prosperity']
 draft: false
 summary: 'As the pastor functions in his office to build up the church, the giver is also called just as a pastor to give for the expansion of the Kingdom of God. Givers are always looking for things they can do to finance the Gospel.'

@@ -1,7 +1,7 @@
 ---
 title: 'Prosperity In The Bible - Part 2'
 date: '2011-09-21'
-lastmod: '2011-09-23'
+updated: '2011-09-23'
 tags: ['prosperity']
 draft: false
 summary: "Proverbs 13:22 says, 'A good man leaveth an inheritance to his children's children...' A good man leaves an inheritance to his children's children. In order to do this, he must have sufficient resources."

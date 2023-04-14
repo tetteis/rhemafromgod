@@ -1,7 +1,7 @@
 ---
 title: 'Can A Christian Lose Salvation?'
 date: '2016-04-21'
-lastmod: '2023-04-01'
+updated: '2023-04-01'
 tags: ['realities', 'salvation', 'sin']
 draft: false
 summary: 'Questions like "Can a Christian lose his salvation?" or "Once saved, always saved?" are common among people, especially new converts.'

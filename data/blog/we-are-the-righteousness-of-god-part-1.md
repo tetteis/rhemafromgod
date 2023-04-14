@@ -1,7 +1,7 @@
 ---
 title: 'We Are The Righteousness Of God - Part 1'
 date: '2011-10-04'
-lastmod: '2011-10-06'
+updated: '2011-10-06'
 tags: ['righteousness', 'power', 'realities']
 draft: false
 summary: '"Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool" (Isaiah 1:18).'

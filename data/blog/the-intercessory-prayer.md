@@ -1,7 +1,7 @@
 ---
 title: 'The Intercessory Prayer'
 date: '2011-08-20'
-lastmod: '2011-08-22'
+updated: '2011-08-22'
 tags: ['prayer']
 draft: false
 summary: "There's been much talk about instability in most parts of the world today. When you look closely in today's world, there are lots of negative things happening. The world and everything in it is constantly changing."

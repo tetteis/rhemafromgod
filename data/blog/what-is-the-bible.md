@@ -1,7 +1,7 @@
 ---
 title: 'What Is The Bible?'
 date: '2011-08-18'
-lastmod: '2011-08-20'
+updated: '2011-08-20'
 tags: ['bible']
 draft: false
 summary: "The Bible is the most wonderful Book. No wonder it's the best, most printed and translated book in history. The Bible is the account of God's action in the world and His purpose with all creation."

@@ -1,7 +1,7 @@
 ---
 title: 'The Blessed Hope - The Coming of Jesus - Part 1'
 date: '2013-06-21'
-lastmod: '2023-04-11'
+updated: '2023-04-11'
 tags: ['hope', 'salvation']
 draft: false
 summary: "Death has been a problem since Adam's fall, and many have tried various practices to find a solution. However, only Jesus can give life and solve the problem of death (2 Corinthians 5:21)."

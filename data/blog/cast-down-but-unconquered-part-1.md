@@ -1,7 +1,7 @@
 ---
 title: 'Cast Down But Unconquered - Part 1'
 date: '2022-07-01'
-lastmod: '2022-07-01'
+updated: '2022-07-01'
 tags: ['victory', 'realities']
 draft: false
 summary: 'The past months of the beginning of this year 2020 has seen every part of the world struggling with an outbreak called Coronavirus (COVID-19). Though it started in late 2019 in Wuhan, China, the intensity and impact of this virus has been strongly felt by various countries through the early months of 2020 till date (March 2020).'

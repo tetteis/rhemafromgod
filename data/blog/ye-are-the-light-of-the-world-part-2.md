@@ -1,7 +1,7 @@
 ---
 title: 'Ye Are The Light Of The World - Part 2'
 date: '2012-02-26'
-lastmod: '2012-02-29'
+updated: '2012-02-29'
 tags: ['realities', 'mystery']
 draft: false
 summary: "So when Jesus said: 'it's the Father in me who does the works and not me,' then we also have the power from God to live the supernatural and glorious life."

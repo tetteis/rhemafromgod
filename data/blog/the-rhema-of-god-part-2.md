@@ -1,7 +1,7 @@
 ---
 title: 'The Rhema of God - Part 2'
 date: '2013-05-09'
-lastmod: '2023-04-12'
+updated: '2023-04-12'
 tags: ['authority', 'power']
 draft: false
 summary: "You have control over your own life and destiny, so it's important to speak the Word over yourself and not just rely on having a Bible nearby. The power of the Word comes from it being alive in you, so make sure to declare it over your life to deal with any situation."

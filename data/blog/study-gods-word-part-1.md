@@ -1,7 +1,7 @@
 ---
 title: "Study God's Word - Part 1"
 date: '2011-10-28'
-lastmod: '2011-10-28'
+updated: '2011-10-28'
 tags: ['growth']
 draft: false
 summary: '"And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified." Acts 20:32.'

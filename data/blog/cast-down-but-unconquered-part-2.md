@@ -1,7 +1,7 @@
 ---
 title: 'Cast Down But Unconquered - Part 2'
 date: '2022-07-01'
-lastmod: '2022-07-01'
+updated: '2022-07-01'
 tags: ['victory', 'realities']
 draft: false
 summary: 'The processes one has to go through when infected with the virus (or deemed as having come into contact with an infected person), is just like the situation of someone who has been rejected or disowned by relations.'

@@ -1,7 +1,7 @@
 ---
 title: "Stewardship In God's Kingdom - Part 4"
 date: '2015-07-02'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['prosperity', 'stewardship']
 draft: false
 summary: "The world's economy is in shambles, with people complaining everywhere. But listen, the Word says God's eyes are on the generous. He cannot do without them, for they've set their heart to prosper His work."

@@ -1,7 +1,7 @@
 ---
 title: 'We Are Kings and Priests - Part 2'
 date: '2012-04-02'
-lastmod: '2012-04-07'
+updated: '2012-04-07'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: 'I love the story of the centurion, whose servant Jesus healed. Bible records that, "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him, And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.'

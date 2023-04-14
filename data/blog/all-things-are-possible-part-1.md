@@ -1,7 +1,7 @@
 ---
 title: 'All Things Are Possible - Part 1'
 date: '2013-11-16'
-lastmod: '2023-04-04'
+updated: '2023-04-04'
 tags: ['realities', 'authority']
 draft: false
 summary: 'Despite the fast pace of events, both good and bad, including the rise of crime and suicide, and the ongoing impact of Covid, our Lord has already overcome the world (John 16:33).'

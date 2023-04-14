@@ -1,7 +1,7 @@
 ---
 title: 'Joint-Heirs With Christ - Part 2'
 date: '2011-08-26'
-lastmod: '2011-08-30'
+updated: '2011-08-30'
 tags: ['realities']
 draft: false
 summary: "Now I'm going to concentrate on our inheritance here and now. As a child of God, you have the access to the infinite wealth of God while you're on earth. Before I start, do you know how wealthy God is?"

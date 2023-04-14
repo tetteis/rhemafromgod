@@ -1,7 +1,7 @@
 ---
 title: 'God Qualifies The Unqualified'
 date: '2011-11-17'
-lastmod: '2011-11-20'
+updated: '2011-11-20'
 tags: ['realities']
 draft: false
 summary: '"You did not choose me, but I chose you and appointed you to go and bear fruit - fruit that will last. Then the Father will give you whatever you ask in my name" (John 15:16).'

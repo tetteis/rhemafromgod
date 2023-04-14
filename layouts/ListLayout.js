@@ -50,14 +50,15 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         <ul>
           {!filteredBlogPosts.length && 'No posts found.'}
           {displayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, updated, title, summary, tags } = frontMatter
             return (
               <li key={slug} className="py-4">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                   <dl>
-                    <dt className="sr-only">Published on</dt>
+                    <dt className="sr-only">Last updated on</dt>
+                    <dt className="">Updated</dt>
                     <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                      <time dateTime={date}>{formatDate(date)}</time>
+                      <time dateTime={updated}>{formatDate(updated)}</time>
                     </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">

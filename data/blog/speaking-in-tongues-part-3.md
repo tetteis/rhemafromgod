@@ -1,7 +1,7 @@
 ---
 title: 'Speaking in Tongues - Part 3'
 date: '2011-08-09'
-lastmod: '2011-08-14'
+updated: '2011-08-14'
 tags: ['power']
 draft: false
 summary: "I have spoken so much about the Gift of Tongues but you may as well ask: if it is God's will for all Christians to speak in tongues, then why do some have trouble receiving their prayer languages?"

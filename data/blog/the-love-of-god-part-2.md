@@ -1,7 +1,7 @@
 ---
 title: 'The Love Of God - Part 2'
 date: '2012-09-18'
-lastmod: '2012-09-21'
+updated: '2012-09-21'
 tags: ['love']
 draft: false
 summary: '"And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues" (1 Corinthians 12:28).'

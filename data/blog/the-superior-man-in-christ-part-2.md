@@ -1,7 +1,7 @@
 ---
 title: 'The Superior Man in Christ - Part 2'
 date: '2011-09-11'
-lastmod: '2011-09-14'
+updated: '2011-09-14'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: "There's no need running around seeking deliverance from sin or from the devil; you've been delivered already (Colossians 1:13). It's your responsibility not to allow yourself become entangled by any yoke of bondage."

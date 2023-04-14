@@ -1,7 +1,7 @@
 ---
 title: "Custodians of God's Mysteries - Part 1"
 date: '2013-11-16'
-lastmod: '2023-04-08'
+updated: '2023-04-08'
 tags: ['christianity', 'mysteries']
 draft: false
 summary: 'People have written books and articles about the relationship between God and man. Some are helpful, while others contradict the truth found in Christ. Only the Spirit of God can reveal the mysteries of God to believers, as the carnal mind is hostile to God (Romans 8:7-8).'

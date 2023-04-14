@@ -1,7 +1,7 @@
 ---
 title: 'Fear Not For I Am With You - Part 3'
 date: '2012-05-12'
-lastmod: '2012-05-16'
+updated: '2012-05-16'
 tags: ['fear']
 draft: false
 summary: 'Goliath walked out toward David with his shield bearer ahead of him, sneering in contempt at the ruddy-faced David. Scripture says "...when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance.'

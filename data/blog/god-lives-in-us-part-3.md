@@ -1,7 +1,7 @@
 ---
 title: 'God Lives In Us - Part 3'
 date: '2013-10-05'
-lastmod: '2023-04-10'
+updated: '2023-04-10'
 tags: ['realities']
 draft: false
 summary: 'As we receive grace from Jesus and recognize it as coming from Him, we can commune with Him and enjoy the felicity of His presence. Let us use our riches and boldly take from Him all that we need.'

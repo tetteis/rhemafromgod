@@ -1,7 +1,7 @@
 ---
 title: 'The Superior Man in Christ - Part 1'
 date: '2011-09-11'
-lastmod: '2011-09-13'
+updated: '2011-09-13'
 tags: ['authority', 'power', 'realities']
 draft: false
 summary: '"Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new" (2 Corinthians 5:17). The first day you received and confessed Jesus Christ as the Lord over your life you became a new type of man.'

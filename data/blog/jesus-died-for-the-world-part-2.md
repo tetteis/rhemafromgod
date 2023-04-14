@@ -1,7 +1,7 @@
 ---
 title: 'Jesus Died For The World - Part 2'
 date: '2011-08-08'
-lastmod: '2011-08-14'
+updated: '2011-08-14'
 tags: ['righteousness']
 draft: false
 summary: 'When Jesus utters these three words, "It is finished," darkness covered the whole earth for three hours. There was a historian in Egypt at the time who wrote this, "In this awful mid-day that has become midnight, either God is suffering or somebody He loves is suffering.'
@@ -36,7 +36,7 @@ Before you receive Jesus into your life, just believe and accept that He bore yo
 
 **SAY THIS CONFESSION:**
 
->O Lord God, I believe in Jesus Christ, your Son who died for me and was raised from the dead for my justification. Your Word says in Romans 10 verse 9 & 10 "...that if thou shall confess with thy mouth the Lord Jesus, and shall believe in thine heart that God hath raised him from the dead, thou shall be saved. For with the heart man believeth unto righteousness and with the mouth confession is made unto salvation." Therefore I confess Jesus Christ as Lord of my life from this day forth. I receive remission of sins for my soul and I receive eternal life into my spirit. I am saved! I am born-again! Thank you for making me your child.
+> O Lord God, I believe in Jesus Christ, your Son who died for me and was raised from the dead for my justification. Your Word says in Romans 10 verse 9 & 10 "...that if thou shall confess with thy mouth the Lord Jesus, and shall believe in thine heart that God hath raised him from the dead, thou shall be saved. For with the heart man believeth unto righteousness and with the mouth confession is made unto salvation." Therefore I confess Jesus Christ as Lord of my life from this day forth. I receive remission of sins for my soul and I receive eternal life into my spirit. I am saved! I am born-again! Thank you for making me your child.
 
 If you just said this short prayer, congratulations!!! You're now a child of God. You can contact me to help you grow spiritually. I would also recommend that you find a Holy Ghost-filled Bible believing church near you and become a part today! Your life will never be the same!
 

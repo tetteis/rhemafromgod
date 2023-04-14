@@ -1,7 +1,7 @@
 ---
 title: "Custodians of God's Mysteries - Part 3"
 date: '2013-11-16'
-lastmod: '2023-04-08'
+updated: '2023-04-08'
 tags: ['christianity', 'mysteries']
 draft: false
 summary: "Jesus taught Nicodemus about being born again, but he didn't understand. Despite knowing the Old Testament well, Nicodemus lacked revelation from it. Knowing the Bible is important, but understanding the God it reveals and the salvation He offers is even more important."

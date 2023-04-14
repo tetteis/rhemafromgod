@@ -1,7 +1,7 @@
 ---
 title: 'Christian Living'
 date: '2013-11-16'
-lastmod: '2023-04-05'
+updated: '2023-04-05'
 tags: ['christianity']
 draft: false
 summary: "As God's children, we should exemplify Christ's character and strive for peace with everyone. By studying God's Word, we are transformed into His image. To bear fruit after Jesus' likeness, we must remain in Him and fill our spirit with the Scriptures."

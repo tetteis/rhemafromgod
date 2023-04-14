@@ -1,7 +1,7 @@
 ---
 title: 'Ye Are The Light Of The World - Part 1'
 date: '2012-02-26'
-lastmod: '2012-02-28'
+updated: '2012-02-28'
 tags: ['realities', 'mystery']
 draft: false
 summary: '"Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee" (Isaiah 60:1). Our opening scripture tells us to arise and shine, for our light has come and the glory of the Lord is risen upon us.'

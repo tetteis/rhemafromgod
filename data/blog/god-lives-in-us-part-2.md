@@ -1,7 +1,7 @@
 ---
 title: 'God Lives In Us - Part 2'
 date: '2013-10-05'
-lastmod: '2023-04-10'
+updated: '2023-04-10'
 tags: ['realities']
 draft: false
 summary: "Solomon obeyed God's laws and built the Temple, which was covered with cedar and gold. The Most Holy Place was 30 feet long and covered with pure gold. Two 15-foot-tall winged creatures made of olive wood covered with gold were placed in the Most Holy Place."

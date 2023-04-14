@@ -1,7 +1,7 @@
 ---
 title: 'The Blessed Hope - The Coming of Jesus - Part 2'
 date: '2013-06-21'
-lastmod: '2023-04-11'
+updated: '2023-04-11'
 tags: ['hope', 'salvation']
 draft: false
 summary: 'I love what Spurgeon says concerning this subject: Let us not imagine that the spirit sleeps in insensibility. "Today shalt thou be with me in paradise," is the whisper of Christ to every dying saint.'

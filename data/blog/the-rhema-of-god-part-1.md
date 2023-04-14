@@ -1,7 +1,7 @@
 ---
 title: 'The Rhema of God - Part 1'
 date: '2013-05-09'
-lastmod: '2023-04-12'
+updated: '2023-04-12'
 tags: ['authority', 'power']
 draft: false
 summary: "God is good and as we increase in grace, we come to know His goodness. To enjoy God's freely given promises, we need knowledge and the rhema of God - the spoken word from scripture for the present moment (1 Corinthians 3:21)."

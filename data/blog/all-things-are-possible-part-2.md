@@ -1,7 +1,7 @@
 ---
 title: 'All Things Are Possible - Part 2'
 date: '2013-11-16'
-lastmod: '2023-04-04'
+updated: '2023-04-04'
 tags: ['realities', 'authority']
 draft: false
 summary: "At times, we wonder why God is silent on us. But we must put His Word to work, as it is truth and reliable. Abraham's faith did not weaken, even when he faced physical and natural evidence that challenged God's promise of a child."

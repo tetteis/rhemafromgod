@@ -1,7 +1,7 @@
 ---
 title: "Study God's Word - Part 3"
 date: '2011-10-28'
-lastmod: '2011-10-30'
+updated: '2011-10-30'
 tags: ['growth']
 draft: false
 summary: '"For if anyone only listens to the Word without obeying it and being a doer of it, he is like a man who looks carefully at his own natural face in a mirror; For he thoughtfully observes himself, and then goes off and promptly forgets what he was like" (James 1:23-24 AMP).'

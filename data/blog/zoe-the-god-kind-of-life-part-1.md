@@ -1,7 +1,7 @@
 ---
 title: 'Zoe - The God Kind Of Life - Part 1'
 date: '2011-10-15'
-lastmod: '2022-03-15'
+updated: '2022-03-15'
 tags: ['power', 'realities']
 draft: false
 summary: '"Fight the good fight of faith; take hold of the eternal life to which you were called and you made the good confession in the presence of many witnesses" (1 Timothy 6:12 NASV). Thank God we are born again!'

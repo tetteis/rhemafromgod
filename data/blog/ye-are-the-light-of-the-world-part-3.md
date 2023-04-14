@@ -1,7 +1,7 @@
 ---
 title: 'Ye Are The Light Of The World - Part 3'
 date: '2012-02-26'
-lastmod: '2012-02-30'
+updated: '2012-02-30'
 tags: ['realities', 'mystery']
 draft: false
 summary: "The scripture says, 'And we, who with unveiled faces all reflect the Lord's glory.' It's God's will that every Christian reflect His glory. We're like little mirrors that He uses to shine His light on the earth."

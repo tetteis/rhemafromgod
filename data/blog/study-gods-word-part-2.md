@@ -1,7 +1,7 @@
 ---
 title: "Study God's Word - Part 2"
 date: '2011-10-28'
-lastmod: '2011-10-29'
+updated: '2011-10-29'
 tags: ['growth']
 draft: false
 summary: "To grow as a child of God, you've got to study the Word of God. You're to constantly meditate on the Word and it'll metamorphose you. It's important to note once again that it's what you read, watch and listen to, that makes you."

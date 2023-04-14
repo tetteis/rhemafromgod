@@ -1,7 +1,7 @@
 ---
 title: 'These Signs Shall Follow Those Who Believe'
 date: '2011-09-04'
-lastmod: '2011-09-10'
+updated: '2011-09-10'
 tags: ['authority']
 draft: false
 summary: 'When Jesus accomplished the greatest task - after He had died for the world, He gave believers the mandate to go into the entire world to preach the Gospel to every creature.'

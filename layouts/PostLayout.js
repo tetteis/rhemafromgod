@@ -16,7 +16,7 @@ const discussUrl = (slug) =>
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { slug, date, title, tags } = frontMatter
+  const { slug, updated, title, tags } = frontMatter
 
   return (
     <SectionContainer>
@@ -32,10 +32,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <div className="space-y-1 text-center">
               <dl className="space-y-10">
                 <div>
-                  <dt className="sr-only">Published on</dt>
+                  <dt className="sr-only">Last updated on</dt>
                   <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                    <time dateTime={date}>
-                      {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
+                    <span>Updated </span>
+                    <time dateTime={updated}>
+                      {new Date(updated).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                     </time>
                   </dd>
                 </div>

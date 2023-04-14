@@ -1,7 +1,7 @@
 ---
 title: "The Believer's Authority - Part 1"
 date: '2014-07-11'
-lastmod: '2023-04-02'
+updated: '2023-04-02'
 tags: ['authority', 'realities', 'mysteries']
 draft: false
 summary: "Praise be to God for this message that I want to share with you today. It is a four-part series on the Believer's Authority that I believe will be a great blessing to you."

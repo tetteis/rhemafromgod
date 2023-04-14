@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Words - Part 2'
 date: '2011-11-26'
-lastmod: '2011-11-30'
+updated: '2011-11-30'
 tags: ['power', 'realities', 'authority']
 draft: false
 summary: "Joel 3:10 says '...let the weak say, I am strong', which is an Old Testament preview of the concept of 'calling those things that be not as though they were' (Romans 4:17). God lives by calling things out of nothing; that's how we ought to live."

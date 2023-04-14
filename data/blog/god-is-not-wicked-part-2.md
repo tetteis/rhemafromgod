@@ -1,7 +1,7 @@
 ---
 title: 'God Is Not Wicked - Part 2'
 date: '2013-02-09'
-lastmod: '2023-04-14'
+updated: '2023-04-14'
 tags: ['Love']
 draft: false
 summary: 'A man is still a sinner without accepting Jesus Christ as His Lord and personal Saviour. The law is there to make us realize we are sinners and there is nothing we can do to become right with God.'

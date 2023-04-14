@@ -1,7 +1,7 @@
 ---
 title: 'We Are The Righteousness Of God - Part 3'
 date: '2011-10-04'
-lastmod: '2011-10-10'
+updated: '2011-10-10'
 tags: ['righteousness', 'power', 'realities']
 draft: false
 summary: '"Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow (1 Peter 1:11). Jesus came to bring us into glory.'

@@ -1,7 +1,7 @@
 ---
 title: 'Speaking in Tongues - Part 1'
 date: '2011-08-09'
-lastmod: '2011-08-10'
+updated: '2011-08-10'
 tags: ['power']
 draft: false
 summary: 'Over the years, tongues speaking has been one of the hot topics in Christianity. Well, I want to share something really important with you, as far as tongues speaking is concerned.'

@@ -1,7 +1,7 @@
 ---
 title: 'Prosperity In The Bible - Part 4'
 date: '2011-09-21'
-lastmod: '2011-09-26'
+updated: '2011-09-26'
 tags: ['prosperity']
 draft: false
 summary: 'Just learn to be good to everyone that comes in contact with you. In case you travel or go for an overseas trip, you can bring your employees a small gift in appreciation for operating the business while you were gone.'

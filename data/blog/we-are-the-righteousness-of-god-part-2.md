@@ -1,7 +1,7 @@
 ---
 title: 'We Are The Righteousness Of God - Part 2'
 date: '2011-10-04'
-lastmod: '2011-10-08'
+updated: '2011-10-08'
 tags: ['righteousness', 'power', 'realities']
 draft: false
 summary: "Never give in to what people say about you. For example, during Jesus' days, He was always accused by the scribe and Pharisees for doing wrong. The Pharisees charged Jesus and His disciples for breaking the sabbath."

@@ -1,7 +1,7 @@
 ---
 title: 'God Lives In Us - Part 4'
 date: '2013-10-05'
-lastmod: '2023-04-10'
+updated: '2023-04-10'
 tags: ['realities']
 draft: false
 summary: 'Your right to heaven lies in Christ, not in yourself. All blessings, such as pardon, justification, sanctification, preservation, and perfection, come through Him. In Him, we have obtained all things.'
