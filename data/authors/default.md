@@ -1,32 +1,21 @@
 ---
 name: Tettei Shahday-Annang
 avatar: /static/images/avatar.png
-occupation: Front-end Developer
+occupation: Front-End Developer
 company: tetteis.com
 email: info@rhemafromgod.com
 twitter: https://twitter.com/tetteis
 facebook: https://facebook.com/rhemafromgod
 ---
 
-Hey there! 👋
+Greetings!
 
-I'm Tettei Shahday-Annang. Gloria's husband, Kester's dad and Sir Laydrown's kid. I'm a born again Christian and full of the Holy Ghost. I absolutely believe in God and His Son Jesus Christ. I was born to a Muslim dad and a Christian mom whom I cherish so much. I know it's surprising how a Muslim and a Christian came together, but that baffles me too. Well, although I have earthly parents, my Bible lets me know that my origin is in Christ and I come from Zion, the City of God (John 1:13; James 1:18; Hebrews 12:22). You can check out my [Statement of Faith](https://www.rhemafromgod.com/faith) to find out about my beliefs.
+My name is Tettei Shahday-Annang, and I am a born again Christian who is filled with the Holy Ghost. I am married to Gloria and blessed with 2 sons. [Sir Laydrown](https://web.facebook.com/laydrownone) is my godfather, whom I cherish greatly. Despite being born to a Muslim father and Christian mother, my faith in God and belief in His Son, Jesus Christ, is unwavering. My origin is in Christ, and I come from Zion, the City of God (John 1:13; James 1:18; Hebrews 12:22). You can learn more about my beliefs by checking out my [Statement of Faith](/about).
 
-My life totally changed when I went to live with grandma in Winneba 😍. Even though she's illiterate, she's just brilliant! She used to tell me more about God as well as the miracles the Lord wrought by her hands. She has such great faith, and I'm a living testimony of that. I had my primary education while living with her, after which I came back to mom in Tema to further my education. I got used to computers in Junior High School, which gave me access to order Christian materials online to study.
+Growing up with my grandma in Winneba, I learned more about God and the miracles He can perform through the faith of His people. I developed a passion for studying God's Word and would read it every day. Even dirty tracts found in the street were not spared from my desire to learn. I have been blessed by those who have sponsored ministry materials to be distributed globally, and I know that their generosity is pleasing to God (2 Corinthians 9:7, AMP).
 
-I developed so much passion for God's Word such that I wouldn't let the day pass without reading it. When I found tracts in the street, no matter how dirty they were, I'd pick them to read. I’ve been truly blessed by those who sponsor ministry materials to be distributed to people across the globe. I’m saying this because I know certain individuals paid for the materials I received by post. The Lord is their primary source, and they'll never run dry. As the Bible declares, "...God loves (He takes pleasure in, prizes above other things, and is unwilling to abandon or to do without) a cheerful (joyous, "prompt to do it") giver [whose heart is in his giving]" (2 Corinthians 9:7, AMP).
+If you are feeling lost or uncertain about your purpose, I want to encourage you to seek the truth in the Bible. You are not a mistake, and God has a plan for you. Through Jesus Christ, you can become a child of God and experience the blessings that come with that relationship. Don't let your feelings or the opinions of others define who you are. Instead, meditate on what God has said about you in His Word until you fully understand your true identity (2 Corinthians 3:18).
 
-Don’t think you're wasting your money when asked to help sponsor the Gospel. I remember the Lord speaking to me as a kid. Whenever He did, He'd say: "Be anxious for nothing!" I found comfort in the Words of the Lord and my life has never been the same. I will never stop teaching the Word of my Maker. We're taking the Gospel and the divine presence of God to the nations of the earth in demonstration of the Holy Ghost and power! 🔥⚡
-
-I want to encourage you today. Listen, it doesn’t matter where you find yourself today. God can turn things around for your good. You’re not a mistake! God has a plan and purpose for you and that is the very reason why you are alive today. Don't dwell on your feelings; don’t see yourself the way others see you. Get the true picture of yourself by studying the Bible - it's your mirror! (2 Corinthians 3:18). Consciously and continuously meditate on what God has said about you in His Word until it settles down in your spirit, and until your inner man becomes fully aware of who you are.
-
-I invite you to [accept Jesus Christ](https://www.rhemafromgod.com/salvation) as your Lord and personal Saviour if you have already not done so.
-
-If you just accepted the Jesus Christ as your Lord and personal Saviour, congratulations!!! You are now a child of God! Believe it, for the Word of God always WORKS!
-
-Find a Holy Ghost filled Bible believing church around you and become a part today. You can write to us should you need any help. Kindly [follow us on Twitter](https://twitter.com/rhemafromgod).
-
-I Love You.  
-❤️❤️❤️
+If you have recently [accepted Jesus Christ](/salvation) as your Lord and personal Savior, congratulations! You are now a child of God, and His Word will always work for you. I encourage you to find a Holy Ghost-filled, Bible-believing church in your area and become a part of the community. And if you need any help, feel free to write to us or follow us on [Twitter](https://twitter.com/rhemafromgod).
 
 God bless you!
